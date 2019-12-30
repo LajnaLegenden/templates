@@ -15,7 +15,7 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
-    "vue": "^2.6.11",
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "browserify-hmr": "^0.4.1",
